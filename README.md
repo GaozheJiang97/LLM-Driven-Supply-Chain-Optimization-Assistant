@@ -1,7 +1,7 @@
 # LLM-Driven Supply Chain Optimization Assistant: Project Report
 
 **Author:** Gaozhe Jiang (e0945601@u.nus.edu)  
-**Date:** *{today's date}*
+**Date:** *{21 Feb 2025}*
 
 ---
 
